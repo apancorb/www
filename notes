@@ -1,0 +1,98 @@
+# Post
+
+* Hashcash and relation to Bitcoin
+- Read the paper and see the proof-of-work relation
+
+* Blockchain where does it come from?
+- Read the paper on bitstrings and see the relation
+- maybe include as data structure and network in general
+
+* Authenticated data structures proofs 
+- go case per case with implementation
+- discuss time complexity and optimizations
+- authenticated data structure problem at the end of chapter 1
+
+* Birthday problem
+- relation to hash functions
+- also use birthday attack problem present in end of chapter 1
+
+* Pigeonhole Principle
+- relation to hash functions
+
+* Byzantine General Problem In Relation to proof-of-work
+- with libp2p example and simulation
+- include figure 5.1
+
+* Basic example of how Bitcoin script works
+
+* Soft fork vs Hard Fork
+
+* Turing completeness in Ethereum
+- what is it
+- intro in bitcoin book
+- the example of namecoin
+- bitcoin limitation of scrypt and platform
+
+# Book
+
+* P. Wayner. Digital Cash: commerce on the net (2nd ed). Morgan Kaufmann, 1997
+- An accessible overview of digital cash schemes focused on practical issues.
+- Showing readers how to exchange digital cash via the Net, this book describes
+  a variety of digital cash algorithms, whose approaches get more complex as
+  features are added. Several current commercial digital cash systems--Citibank,
+  Microsoft/Visa, Digicash, Magic Money, and First Virtual -- are discussed.
+- History related (long road to Bitcoin).
+
+* Introduction to Cryptography with Coding Theory Second Edition, by Wade 
+Trappe & Lawrence C. Washington
+
+* Katz Jonathan, and Yehuda Lindell. Introduction to Modern Cryptography,
+Second Edition. CRC Press, 2014
+
+* Pragmatic Programmer, The: Your journey to mastery, 20th Anniversary Edition
+
+# Paper
+
+* D. Chaum, A. Fiat, M. Naor. Untraceable electronic cash. CRYPTO 1998
+- Although not Chaum’s earliest paper on e-cash, this is arguably the most
+  innovative, and it formed a template replicated by many other papers.
+- History related (long road to Bitcoin).
+
+* J. Camenisch, S. Hohenberger, A. Lysyanskaya, Compact e-cash. Theory and Applications of
+  Cryptographic Techniques, 2005
+- Many papers improved the efficiency of Chaum-Fiat-Naor using modern cryptographic techniques,
+  but arguably the most significant is this one.
+
+* B. Schoenmakers. Basic security of the ecash payment system. State of the Art in Applied
+  Cryptography, 1997.
+- An overview of the implementation of Chaum’s ecash proposal.
+
+* A. Back. Hashcash - A Denial of Service Counter-Measure, Online, 2002.
+- Cited by Satoshi Nakamoto in the Bitcoin whitepaper that are integral to Bitcon’s design.
+
+* S. Haber, W. S. Stornetta. Secure names for bitstrings. CCS, 1997.
+- Cited by Satoshi Nakamoto in the Bitcoin whitepaper that are integral to Bitcon’s design.
+
+* Satoshi Nakamoto. Bitcoin white paper
+
+* The Ethereum white paper: Various authors. A Next‐Generation Smart
+  Contract and Decentralized Application Platform.
+
+* Miers, Ian, Christina Garman, Matthew Green, and Aviel D. Rubin. Zerocoin: Anonymous distributed
+  E-Cash from Bitcoin. Proceedings of 2013 IEEE Symposium on Security and Privacy, 2013.
+- Zerocoin was developed by cryptographers from Johns Hopkins University. Keep in mind Zerocoin and
+  Zerocash have the most complex cryptography of any scheme we’ve discussed in this book.
+
+* Ben Sasson, Eli, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, and
+  Madars Virza. Zerocash: Decentralized anonymous payments from Bitcoin. Proceedings of 2013 IEEE
+  Symposium on Security and Privacy, 2014.
+- The Zerocoin authors teamed up with other researchers who had developed the SNARK technique.
+
+* Dingledine, Roger, Nick Mathewson, and Paul Syverson. Tor: The second-generation onion router.
+  Naval Research Lab Washington DC, 2004.
+- The paper that describes the technical design of the anonymous communication network Tor
+
+# Site
+
+* https://www.youtube.com/@bsv_academy
+- Good for Bitcoin related details

@@ -1,0 +1,23 @@
+.chroma {
+    background-color: unset !important;
+}
+
+:root {
+    --hljs-bg: #f0f0f0;
+}
+
+.dark {
+    --hljs-bg: #0d1117;
+}
+
+code {
+    color: unset !important;
+}
+
+/* Fixes iOS font sizing anomaly: https://github.com/adityatelange/hugo-PaperMod/issues/828 */
+code {
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}

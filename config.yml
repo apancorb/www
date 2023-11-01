@@ -1,0 +1,74 @@
+baseURL: "https://www.tony.software"
+title: tony.software
+languageCode: en-us
+paginate: 5
+theme: PaperMod
+copyright: "&copy; 2023 Antonio Pancorbo"
+
+enableRobotsTXT: true
+buildDrafts: false
+
+params:
+  env: production
+  title: tony.software
+  author: "Antonio Pancorbo"
+  homeInfoParams:
+    Title: "Hola! \U0001F44B"
+    Content: "I'm a software engineer based in Spain, where I embark on
+      exciting ventures in the realm of distributed systems. Armed with a double
+      degree in Computer Science and Mathematics from the University of Maryland,
+      I'm equipped with the knowledge to tackle complex challenges. But that's not
+      all, I have a burning passion for delving into the intricate world of
+      distributed ledger technology and blockchain systems. Join me on this
+      thrilling journey as we unlock the mysteries of computing and pave the way
+      for innovative solutions!"
+  socialIcons:
+    - name: github
+      url: "https://github.com/apancorb"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/antonio-pancorbo"
+    - name: email
+      url: "mailto:info@tony.software"
+  mainSections:
+    - posts
+  cover:
+    linkFullImages: true
+  assets:
+    disableHLJS: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  ShowReadingTime: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    codeFences: true
+    noClasses: false
+    lineNos: false
+    anchorLineNos: false
+    guessSyntax: false
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
+    - identifier: books
+      name: Books
+      url: /books/
+      weight: 2
+    - identifier: papers
+      name: Papers
+      url: /papers/
+      weight: 3
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 4
