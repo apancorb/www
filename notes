@@ -2,15 +2,11 @@
 
 * Hashcash and relation to Bitcoin
 - Read the paper and see the proof-of-work relation
+- Hashcash was the original application of proof-of-work
 
 * Blockchain where does it come from?
 - Read the paper on bitstrings and see the relation
 - maybe include as data structure and network in general
-
-* Authenticated data structures proofs 
-- go case per case with implementation
-- discuss time complexity and optimizations
-- authenticated data structure problem at the end of chapter 1
 
 * Birthday problem
 - relation to hash functions
@@ -18,10 +14,6 @@
 
 * Pigeonhole Principle
 - relation to hash functions
-
-* Byzantine General Problem In Relation to proof-of-work
-- with libp2p example and simulation
-- include figure 5.1
 
 * Basic example of how Bitcoin script works
 
@@ -91,8 +83,3 @@ Second Edition. CRC Press, 2014
 * Dingledine, Roger, Nick Mathewson, and Paul Syverson. Tor: The second-generation onion router.
   Naval Research Lab Washington DC, 2004.
 - The paper that describes the technical design of the anonymous communication network Tor
-
-# Site
-
-* https://www.youtube.com/@bsv_academy
-- Good for Bitcoin related details
