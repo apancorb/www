@@ -113,3 +113,11 @@ the integrity of the attacker's own wealth and ensures a more profitable outcome
 As a result, proof-of-work solves the Byzantine Generals Problem as it achieves
 a majority agreement without any central authority, in spite of the presence of
 malicious participants and despite the network not being instantaneous.
+
+### References
+1. Nakamoto, S. (2008) Bitcoin: A Peer-to-Peer Electronic Cash System.
+https://bitcoin.org/bitcoin.pdf
+2. Narayanan, A. et al. (2016) Bitcoin and cryptocurrency technologies:
+A comprehensive introduction. Princeton, NJ: Princeton University Press. 
+3. Antonopoulos, A. (2024) Mastering bitcoin: Programming The open blockchain.
+S.l.: O’Reilly Media. 
