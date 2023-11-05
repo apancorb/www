@@ -75,7 +75,7 @@ majority decision-making. If a majority were determined based on a one-IP-addres
 system, it could be vulnerable to manipulation by individuals who can allocate numerous
 IP addresses. In contrast, proof-of-work essentially establishes a one-CPU-one-vote
 model. The majority decision is symbolized by the longest chain, which reflects the
-most substantial effort in terms of proof-of-work. If the majority of CPU power is
+most substantial effort in terms of proof-of-work. If the majority of computing power is
 under the control of honest nodes, the honest chain will experience the most rapid
 growth, outpacing any competing chains. To alter a previous block, an attacker 
 would need to redo the proof-of-work for that block and all subsequent blocks, 
@@ -119,5 +119,5 @@ malicious participants and despite the network not being instantaneous.
 https://bitcoin.org/bitcoin.pdf
 2. Narayanan, A. et al. (2016) Bitcoin and cryptocurrency technologies:
 A comprehensive introduction. Princeton, NJ: Princeton University Press. 
-3. Antonopoulos, A. (2024) Mastering bitcoin: Programming The open blockchain.
+3. Antonopoulos, A. (2024) Mastering bitcoin: Programming the open blockchain.
 S.l.: O’Reilly Media. 
