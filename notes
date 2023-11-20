@@ -25,6 +25,8 @@
 - the example of namecoin
 - bitcoin limitation of scrypt and platform
 
+* CAP for Blockchain
+
 # Book
 
 * P. Wayner. Digital Cash: commerce on the net (2nd ed). Morgan Kaufmann, 1997
@@ -42,6 +44,34 @@ Trappe & Lawrence C. Washington
 Second Edition. CRC Press, 2014
 
 * Pragmatic Programmer, The: Your journey to mastery, 20th Anniversary Edition
+
+* Tapscott A, Tapscott D (2018) Blockchain revolution: how the technology behind bitcoin and
+other cryptocurrencies is changing the world. Penguin, New York City
+
+* Werbach K (2018) The blockchain and the new architecture of digital trust. MIT Press,
+Cambridge
+
+* Mougayar W, Buterin V (2016) The business blockchain: promise, practice, and application
+of the next internet technology. Wiley, Hoboken
+
+* Popper N (2016) Digital gold: bitcoin and the inside story of the misfits and millionaires
+trying to reinvent money. HarperCollins, New York
+
+* Zhao W (2014) Building dependable distributed systems. Wiley, Beverly
+
+* Yuan M (2020) Building blockchain apps. Addison-Wesley, Boston
+
+* Holden J (2017) The mathematics of secrets: cryptography from caesar ciphers to digital
+encryption. Princeton University Press, Princeton
+
+* Paar C, Pelzl J (2011) Understanding cryptography: a textbook for students and practitioners.
+Springer, Heidelberg
+
+* Easttom C (2016) Modern cryptography: applied mathematics for encryption and information
+security. McGraw-Hill Education, New York City
+
+* Berners-Lee T (2000) Weaving the web: the past present and future of the world wide web by
+its inventor. Texere, London
 
 # Paper
 
@@ -65,10 +95,10 @@ Second Edition. CRC Press, 2014
 * S. Haber, W. S. Stornetta. Secure names for bitstrings. CCS, 1997.
 - Cited by Satoshi Nakamoto in the Bitcoin whitepaper that are integral to Bitcon’s design.
 
-* Satoshi Nakamoto. Bitcoin white paper
-
 * The Ethereum white paper: Various authors. A Next‐Generation Smart
   Contract and Decentralized Application Platform.
+
+* Wood G (nd) Ethereum: a secure decentralised generalised transaction ledger
 
 * Miers, Ian, Christina Garman, Matthew Green, and Aviel D. Rubin. Zerocoin: Anonymous distributed
   E-Cash from Bitcoin. Proceedings of 2013 IEEE Symposium on Security and Privacy, 2013.
@@ -83,3 +113,5 @@ Second Edition. CRC Press, 2014
 * Dingledine, Roger, Nick Mathewson, and Paul Syverson. Tor: The second-generation onion router.
   Naval Research Lab Washington DC, 2004.
 - The paper that describes the technical design of the anonymous communication network Tor
+
+* The Libra Association. An introduction to libra. https://libra.org/en-us/whitepaper
