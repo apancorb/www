@@ -40,9 +40,6 @@ network, is particularly relevant in the context of distributed ledger systems,
 such as blockchain systems, where multiple participants must reach consensus on
 the global state of the system, even in the presence of malicious participants.
 Therefore, blockchain systems must find a way to solve the [Byzantine Generals Problem](https://www.tony.software//posts/breaking_down_byzantine_generals_problem/).
-
-[!["Byzantine Generals Problem Graph"](/posts/byzantine_generals_problem_graph.webp#center)](https://www.tony.software/posts/byzantine_generals_problem_graph.webp)
-
 So how does a blockchain system, such as Bitcoin, solve the Byzantine Generals
 Problem?
 
@@ -63,6 +60,8 @@ within the block, and the hash of this combined string is computed, the resultin
 hash should be a value within a relatively small target range compared to the
 overall range of possible hash values. This target range is defined as values falling
 below a specific threshold, which dictates the difficulty of the hash puzzle.
+
+Here is pseudocode for the proof-of-work algorithm:
 
 [!["proof-of-work Pseudocode"](/posts/proof_of_work_code.png#center)](https://www.tony.software/posts/proof_of_work_code.png)
 
@@ -87,17 +86,16 @@ the difficulty of the proof-of-work is adjusted using a moving average that targ
 an average number of blocks generated per a given time interval. If blocks are
 being generated too quickly, the difficulty level increases accordingly.
 
----
-
 Essentially, proof-of-work based blockchain systems incorporates the concept of
 randomness. Furthermore, it dispenses with the idea of a fixed start and end point
-for achieving consensus. Instead, consensus is established over an extended period
-of time. Even at the conclusion of this timeframe, nodes cannot be certain that a
-specific transaction or block has been included in the ledger. Rather, over time,
-the likelihood of your perspective aligning with the eventual consensus increases,
-while the probability of diverging viewpoints decreases exponentially. These
-distinctions in the model are fundamental to how proof-of-work navigates around the
-traditional challenges posed by distributed consensus protocols.
+for achieving consensus; thus it can be claimed that proof-of-work does not solve
+the Byzatine Generals Problem as intended. Instead, consensus is established over
+an extended period of time. Even at the conclusion of this timeframe, nodes cannot
+be certain that a specific transaction or block has been included in the ledger.
+Rather, over time, the likelihood of your perspective aligning with the eventual
+consensus increases, while the probability of diverging viewpoints decreases exponentially.
+These distinctions in the model are fundamental to how proof-of-work navigates around
+the traditional challenges posed by distributed consensus protocols.
 
 It is also very important to realize that incentives play a crucial role in promoting
 the honesty of nodes within the network. If a self-interested attacker manages to
@@ -109,10 +107,19 @@ for the attacker to adhere to the established rules, which, in their favor, resu
 in a larger share of newly generated coins than the cumulative share of everyone
 else. This approach of following the rules rather than subverting the system safeguards
 the integrity of the attacker's own wealth and ensures a more profitable outcome.
+Therefore, the proof-of-work algorithm does not safeguard against hacks but
+only minimizes the chance of their occurrence by creating greater financial
+incentives for network participants to comply with the rules of the system than to
+break them.
 
-As a result, proof-of-work solves the Byzantine Generals Problem as it achieves
+Thus one can say that proof-of-work solves the Byzantine Generals Problem, as it achieves
 a majority agreement without any central authority, in spite of the presence of
-malicious participants and despite the network not being instantaneous.
+malicious participants and despite the network not being instantaneous. But the
+key part to realize is that it reaches consensus eventually. Therfore, according
+to distributed systems terminology, a blockchain system using proof-of-work as its
+consensus algorithm can be categorized as having the property of eventual consistency.
+Meaning, it will reach consensus even when faced with faulty or malicious participants
+and communication paths, but over a given amount of time.
 
 ### References
 1. Nakamoto, S. (2008) Bitcoin: A Peer-to-Peer Electronic Cash System.
