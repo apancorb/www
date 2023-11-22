@@ -4,13 +4,12 @@ author: ["Leslie Lamport", "Robert Shostak", "Marshall Pease"]
 ShowReadingTime: false
 cover:
     image: /papers/byzantine_generals_problem.png
-    caption:
+    caption: "[The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)"
 tags: ["distributed systems", "byzantine generals problem", "computer networks", "fault tolerance", "reliability"]
 draft: false
 ---
 
-The [paper](https://lamport.azurewebsites.net/pubs/byz.pdf) describes how reliable
-computer systems must handle malfunctioning components that give conflicting
+Reliable computer systems must handle malfunctioning components that give conflicting
 information to different parts of the system. This situation can be expressed
 abstractly in terms of a group of generals of the Byzantine army camped with their
 troops around an enemy city. Communicating only by messenger, the generals must agree
