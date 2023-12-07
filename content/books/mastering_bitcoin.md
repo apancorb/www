@@ -4,17 +4,17 @@ author: ["Andreas M. Antonopoulos"]
 ShowReadingTime: false
 cover:
     image: /books/mastering_bitcoin.jpeg
-    caption: "Mastering Bitcoin"
+    caption: "[Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/)"
 tags: ["blockchain systems", "distributed systems", "bitcoin", "cryptocurrency", "computing"]
 draft: false
 ---
 
 Join the technological revolution that’s taking the financial world by storm.
-[Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/)
-is your guide through the seemingly complex world of bitcoin, providing the knowledge
-you need to participate in the internet of money. Whether you’re building the next
-killer app, investing in a startup, or simply curious about the technology, this
-revised and expanded second edition provides essential detail to get you started.
+*Mastering Bitcoin* is your guide through the seemingly complex world of bitcoin,
+providing the knowledge you need to participate in the internet of money. Whether
+you’re building the next killer app, investing in a startup, or simply curious about
+the technology, this revised and expanded second edition provides essential detail
+to get you started.
 
 Bitcoin, the first successful decentralized digital currency, is still in its early
 stages and yet it’s already spawned a multi-billion-dollar global economy open to

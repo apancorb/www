@@ -4,17 +4,16 @@ author: ["Arvind Narayanan", "Joseph Bonneau", "Edward W. Felten", "Andrew Mille
 ShowReadingTime: false
 cover:
     image: /books/bitcoin_cryptocurrency_technologies.jpg
-    caption: "Bitcoin and Cryptocurrency Technologies"
+    caption: "[Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)"
 tags: ["blockchain systems", "distributed systems", "bitcoin", "cryptocurrency", "computing"]
 draft: false
 ---
 
-[Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
-provides a comprehensive introduction to the revolutionary yet often misunderstood
-new technologies of digital currency. Whether you are a student, software developer,
-tech entrepreneur, or researcher in computer science, this authoritative and
-self-contained book tells you everything you need to know about the new global
-money for the Internet age.
+*Bitcoin and Cryptocurrency Technologies* provides a comprehensive introduction
+to the revolutionary yet often misunderstood new technologies of digital currency.
+Whether you are a student, software developer, tech entrepreneur, or researcher in
+computer science, this authoritative and self-contained book tells you everything
+you need to know about the new global money for the Internet age.
 
 How do Bitcoin and its blockchain actually work? How secure are your bitcoins?
 How anonymous are users of cryptocurrencies? Can cryptocurrencies be regulated?
