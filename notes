@@ -8,24 +8,13 @@
 - Read the paper on bitstrings and see the relation
 - maybe include as data structure and network in general
 
-* Birthday problem
-- relation to hash functions
-- also use birthday attack problem present in end of chapter 1
-
-* Pigeonhole Principle
-- relation to hash functions
-
-* Basic example of how Bitcoin script works
-
-* Soft fork vs Hard Fork
-
 * Turing completeness in Ethereum
 - what is it
 - intro in bitcoin book
 - the example of namecoin
 - bitcoin limitation of scrypt and platform
 
-* CAP for Blockchain
+* Keeping track of Nonces
 
 # Book
 
