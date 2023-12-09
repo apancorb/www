@@ -58,7 +58,7 @@ is omitted, it defaults to the length of `s`.
 The length and capacity of each of the slices in respect to the underlying array,
 in this case `days` can be depicted as follows:
 
-[!["DHCP"](/posts/slice_days.jpeg#center)](https://www.tony.software/posts/slice_days.jpeg)
+[!["Go Slices"](/posts/slice_days.jpeg#center)](https://www.tony.software/posts/slice_days.jpeg)
 
 Now, there are two key considerations that we need to keep in mind. The first one
 being that if we slice beyond `cap(s)` it will cause a panic, but slicing beyond
