@@ -3,7 +3,7 @@ title: "Bitcoin: A Peer-to-Peer Electronic Cash System"
 author: "Satoshi Nakamoto"
 ShowReadingTime: false
 cover:
-    image: /papers/bitcoin_peer_peer_electronic_cash_system.jpg
+    image: /papers/bitcoin_whitepaper.jpg
     caption: "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)"
 tags: ["bitcoin", "distributed systems", "blockchain systems", "cryptography", "computer science"]
 draft: false
