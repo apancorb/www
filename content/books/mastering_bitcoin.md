@@ -1,13 +1,15 @@
 ---
 title: "Mastering Bitcoin"
-author: ["Andreas M. Antonopoulos"]
+author: ["Andreas M. Antonopoulos", "David A. Harding"]
 ShowReadingTime: false
 cover:
     image: /books/mastering_bitcoin.jpeg
-    caption: "[Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/)"
+    caption: "[Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/)"
 tags: ["blockchain systems", "distributed systems", "bitcoin", "cryptocurrency", "computing"]
 draft: false
 ---
+
+*If you are new to Bitcoin, I highly recommend checking this site: https://learnmeabitcoin.com/* 
 
 Join the technological revolution that’s taking the financial world by storm.
 *Mastering Bitcoin* is your guide through the seemingly complex world of bitcoin,
@@ -21,15 +23,11 @@ stages and yet it’s already spawned a multi-billion-dollar global economy open
 anyone with the knowledge and passion to participate. Mastering Bitcoin provides
 the knowledge. You simply supply the passion.
 
-The second edition includes:
+The third edition includes:
 
-* A broad introduction of bitcoin and its underlying blockchain—ideal for non-technical
-users, investors, and business executives.
-* An explanation of the technical foundations of bitcoin and cryptographic currencies
-for developers, engineers, and software and systems architects.
-* Details of the bitcoin decentralized network, peer-to-peer architecture, transaction 
-lifecycle, and security principles.
-* New developments such as Segregated Witness, Payment Channels, and Lightning Network.
-* A deep dive into blockchain applications, including how to combine the building
-blocks offered by this platform into higher-level applications.
+* A broad introduction to Bitcoin and its underlying blockchain—ideal for nontechnical users, investors, and business executives.
+* An explanation of Bitcoin's technical foundation and cryptographic currency for developers, engineers, and software and systems architects.
+* Details of the Bitcoin decentralized network, peer-to-peer architecture, transaction lifecycle, and security principles.
+* New developments such as Taproot, Tapscript, Schnorr signatures, and the Lightning Network.
+* A deep dive into Bitcoin applications, including how to combine the building blocks offered by this platform into powerful new tools.
 * User stories, analogies, examples, and code snippets illustrating key technical concepts.
