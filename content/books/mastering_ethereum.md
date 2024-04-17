@@ -1,5 +1,5 @@
 ---
-title: "Mastering Bitcoin"
+title: "Mastering Ethereum"
 author: ["Andreas M. Antonopoulos", "Dr. Gavin Wood"]
 ShowReadingTime: false
 cover:
