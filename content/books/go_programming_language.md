@@ -5,7 +5,7 @@ ShowReadingTime: false
 cover:
     image: /books/go_programming_language.png
     caption: "[The Go Programming Language](https://www.gopl.io/)"
-tags: ["go", "programming language", "software development", "computing"]
+tags: ["go", "programming language", "software development", "programming"]
 draft: false
 ---
 
