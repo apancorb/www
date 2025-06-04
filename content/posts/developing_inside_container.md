@@ -7,6 +7,8 @@ cover:
     image: /posts/docker.png
     caption: "Image from [docker.com](https://docker.com)"
 tags: ["docker", "programming", "software", "development", "container"]
+featured: true
+featuredWeight: 3
 draft: false
 ---
 

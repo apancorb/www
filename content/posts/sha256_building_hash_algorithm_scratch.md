@@ -7,6 +7,8 @@ cover:
     image: /posts/sha256.png
     caption: Image from [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
 tags: ["hash function", "cryptography", "algorithm", "programming", "computer security"]
+featured: true
+featuredWeight: 2
 draft: false
 ---
 

@@ -7,6 +7,8 @@ cover:
     image: /posts/unix_developers.jpeg
     caption: "Ken Thompson and Dennis Ritchie — 1973"
 tags: ["unix", "philosophy", "programming", "software", "engineering"]
+featured: true
+featuredWeight: 1
 draft: false
 ---
 
