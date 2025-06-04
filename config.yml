@@ -1,9 +1,10 @@
 baseURL: "https://www.tony.software"
 title: tony.software
 languageCode: en-us
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
-copyright: "&copy; 2023 Antonio Pancorbo"
+copyright: "&copy; 2025 Antonio Pancorbo"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -28,7 +29,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/antonio-pancorbo"
     - name: email
-      url: "mailto:info@tony.software"
+      url: "mailto:me@tony.software"
   mainSections:
     - posts
   cover:
