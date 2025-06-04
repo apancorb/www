@@ -5,10 +5,9 @@ summary: "Overview of the Block chain and Merkle Tree data structures"
 date: 2023-08-31
 cover:
     image: /posts/blockchain_merkle_data_structure.png
-    caption: "Image from [Yung-Chen Chou](https://www.mdpi.com/1999-5903/11/7/149)"
 tags: ["blockchain", "merkle tree", "data structure", "hash", "algorithm"]
 featured: true
-featuredWeight: 4
+featuredWeight: 5
 draft: false
 ---
 

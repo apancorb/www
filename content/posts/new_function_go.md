@@ -5,7 +5,6 @@ summary: "Brief overview of the new built-in function in Go"
 date: 2023-04-25
 cover:
     image: /posts/go_new_function.jpeg
-    caption: "Image from [Guy J Grigsby](https://medium.com/star-gazers/go-options-pattern-da49185a2526)"
 tags: ["go", "programming"]
 draft: false
 ---

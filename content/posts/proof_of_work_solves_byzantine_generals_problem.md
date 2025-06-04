@@ -5,10 +5,7 @@ summary: "Overview of how proof-of-work blockchain systems achieve byzantine fau
 date: 2023-11-02
 cover:
     image: /posts/bitcoin_mining_center.jpg
-    caption: "Image from [CNBC](https://www.cnbc.com/2018/03/15/bad-news-for-bitcoin-miners-as-its-no-longer-profitable-to-create-the-cryptocurrency.html)"
 tags: ["distributed systems", "consensus", "blockchain systems", "proof-of-work", "byzantine generals problem"]
-featured: true
-featuredWeight: 5
 draft: false
 ---
 

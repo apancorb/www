@@ -5,7 +5,6 @@ summary: "Learn how to build a high-performance, concurrent, non-blocking cache 
 date: 2023-07-23
 cover:
     image: /posts/concurrent_non_blocking_cache_go.jpg
-    caption: "Image from [Konrad Reiche](https://speakerdeck.com/konradreiche/lets-build-a-concurrent-non-blocking-cache?slide=5)"
 tags: ["go", "programming", "cache", "concurrency", "performance"]
 draft: false
 ---

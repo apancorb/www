@@ -5,7 +5,6 @@ summary: "Exploring Go's Powerful Array Abstraction"
 date: 2023-07-14
 cover:
     image: /posts/array.jpg
-    caption: "Image from [universe759.rssing.com](https://universe759.rssing.com/chan-7437874/latest-article2.php)"
 tags: ["go", "programming", "algorithm", "array", "data structure"]
 draft: false
 ---

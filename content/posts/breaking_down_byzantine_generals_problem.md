@@ -5,7 +5,6 @@ summary: "Exploration of the Byzantine Generals Problem and its role in building
 date: 2023-09-15
 cover:
     image: /posts/byzantine_general_belisarius.jpg
-    caption: "Byzantine General Belisarius, Having is a drawing by Mary Evans Picture Library"
 tags: ["distributed systems", "byzantine generals problem", "computer networks", "fault tolerance", "reliability"]
 draft: false
 ---

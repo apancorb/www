@@ -5,7 +5,6 @@ summary: "CAP Theorem and its use with different types of distributed systems su
 date: 2023-12-09
 cover:
     image: /posts/cap_theorem.png
-    caption: "Image from [Chetna Chaudhari](https://chetnachaudhari.medium.com/cap-principle-5adbef7f2dc3)"
 tags: ["cap", "distributed systems", "blockchain systems", "blockchain trilemma", "system design"]
 draft: false
 ---

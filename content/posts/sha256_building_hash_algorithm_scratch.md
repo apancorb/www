@@ -5,10 +5,9 @@ summary: "Step-by-step journey of building the SHA-256 hash algorithm from the g
 date: 2023-08-18
 cover:
     image: /posts/sha256.png
-    caption: Image from [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
 tags: ["hash function", "cryptography", "algorithm", "programming", "computer security"]
 featured: true
-featuredWeight: 2
+featuredWeight: 3
 draft: false
 ---
 

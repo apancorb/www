@@ -5,10 +5,9 @@ summary: "Overview of development containers"
 date: 2023-03-06
 cover:
     image: /posts/docker.png
-    caption: "Image from [docker.com](https://docker.com)"
 tags: ["docker", "programming", "software", "development", "container"]
 featured: true
-featuredWeight: 3
+featuredWeight: 4
 draft: false
 ---
 

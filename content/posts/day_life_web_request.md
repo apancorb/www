@@ -5,7 +5,6 @@ summary: "Exploration of the many networking protocols involved with fetching a 
 date: 2023-03-19
 cover:
     image: /posts/web_request_flow.png
-    caption: "Image from [monashdatafluency](https://monashdatafluency.github.io/python-web-scraping/section-2-HTML-based-scraping/)"
 tags: ["web", "network", "protocol", "computing", "general"]
 draft: false
 ---
