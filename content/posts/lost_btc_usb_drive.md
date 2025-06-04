@@ -2,7 +2,7 @@
 title: "I Found 0.34 BTC on a Friend’s USB Drive"
 author: "Antonio Pancorbo"
 summary: "A Lost Wallet.dat, Forgotten Since 2017"
-date: 2024-12-12
+date: 2024-11-30
 cover:
     image: "/posts/lost_bitcoin_usb.png"
 tags: ["bitcoin", "wallet", "blockchain", "story"]
