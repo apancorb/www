@@ -129,6 +129,16 @@ I loaded them into [Electrum Wallet](https://electrum.org), and this was the res
 Each line told a story — from early 2017 interactions to 2018 transfers. Slowly,
 balances started stacking up.
 
+I mapped out every address, every transaction, and kept personal notes.
+It was like digital archaeology.
+
+Some funds came from Poloniex.com, others from a multisig wallet — classic signs
+of a mining pool payout structure. The timestamps, transaction trails, and
+patterns all pointed to that.
+
+Even though they didn’t mine blocks directly, they contributed to a pool and
+got their fair share.
+
 ---
 
 ## 💥 The Big One: $16,000 Worth of BTC
@@ -165,6 +175,7 @@ Here’s the final transaction:
 This was one of the most rewarding and fun technical adventures I’ve had in a while.
 
 The biggest takeaway?  
+
 **Backup your wallets** — and don’t throw away strange USB drives just because they
 look empty. That binary blob might hold life-changing value.
 
@@ -172,4 +183,5 @@ Her brother didn’t even know what `wallet.dat` was… yet it held over **0.34 
 since 2017.
 
 And the best part?  
+
 It wasn’t encrypted 😅
