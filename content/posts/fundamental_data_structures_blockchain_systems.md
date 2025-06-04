@@ -6,8 +6,6 @@ date: 2023-08-31
 cover:
     image: /posts/blockchain_merkle_data_structure.png
 tags: ["blockchain", "merkle tree", "data structure", "hash", "algorithm"]
-featured: true
-featuredWeight: 5
 draft: false
 ---
 
