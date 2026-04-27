@@ -4,7 +4,7 @@ languageCode: en-us
 pagination:
   pagerSize: 5
 theme: PaperMod
-copyright: "&copy; 2025 Antonio Pancorbo"
+copyright: "&copy; 2026 Antonio Pancorbo"
 
 enableRobotsTXT: true
 buildDrafts: false
