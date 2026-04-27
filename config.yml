@@ -18,11 +18,9 @@ params:
     Content: "I'm a software engineer based in Spain, where I embark on
       exciting ventures in the realm of distributed systems. Armed with a double
       degree in Computer Science and Mathematics from the University of Maryland,
-      I'm equipped with the knowledge to tackle complex challenges. But that's not
-      all, I have a burning passion for delving into the intricate world of
-      distributed ledger technology and blockchain systems. Join me on this
-      thrilling journey as we unlock the mysteries of computing and pave the way
-      for innovative solutions!"
+      I'm equipped with the knowledge to tackle complex challenges. Join me on
+      this thrilling journey as we unlock the mysteries of computing and pave
+      the way for innovative solutions!"
   socialIcons:
     - name: github
       url: "https://github.com/apancorb"
